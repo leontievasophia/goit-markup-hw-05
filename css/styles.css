@@ -523,6 +523,9 @@ a {
 .fedback-wraper {
   margin-bottom: 8px;
 }
+.fedback-wraper:last-of-type {
+  margin-bottom: 16px;
+}
 .fedback-form .btn {
   min-width: 169px;
 }
