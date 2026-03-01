@@ -521,7 +521,10 @@ a {
 .fedback-form {
 }
 .fedback-wraper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
+}
+.fedback-form .btn {
+  min-width: 169px;
 }
 .fedback-lable {
   display: block;
